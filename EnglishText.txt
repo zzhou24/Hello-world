@@ -10,3 +10,4 @@ Bouchette's Topographical Report.
 Parkman's History of Canada.
 Also to traditions of old settlers collected at various times and places. May some of the pictures set forth in these pages inspire us with an ever-deepening appreciation of the self-sacrifice, the energy, the enterprise, of those whose loyalty to the British Crown led them to penetrate the dark recesses of our Canadian forests and brave the trials and vicissitudes of pioneer life.
 To these conquering heroes Canada owes much of her prosperity and greatness.
+# this is the end
