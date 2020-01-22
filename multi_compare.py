@@ -13,5 +13,6 @@ if __name__ == '__main__':
     for i in range(50000):
         res = job(i)
         final.append(res)
-    print(final[-1])
+    print(final[-2])
+# show how long the program takes    
 print(time.time()-start_time)
